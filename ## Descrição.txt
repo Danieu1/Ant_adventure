@@ -1,0 +1,3 @@
+## Descrição:
+
+ Um jogo onde uma formiga colecta elementos em um cenário, esses elementos aumenta a sua força para enfrentar os inimigos que afligem seu formigueiro. O objectivo  do jogo é colectar todos os itens do cenário, e chegar até ao seu formigueiro, destruir o inimigo  é opcional.
